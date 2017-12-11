@@ -5,7 +5,7 @@ Abstract
 This project examines the link between violent crime and temperature in Seattle, since this link has been observed elsewhere. Several studies of Chicago and one of Finland suggest a positive relationship between temperature and violent crime. Since climate studies indicates Seattle will see increasing temperatures over the next century, this suggests a need to plan for more crime in Seattle. After looking at data between 2012 and 2017, I am unable to find a clear link between temperature and crime in Seattle. Instead, I find a stronger link between crime and month of the year, time of day and day of the week. I conclude that planning for crime based on climate change temperature forecasts is likely not worthwhile.
 
 Overview
-This readme walks through how this analysis was conducted including the steps in gathering and analyzing the data. This readme also explains where this information can be found in the github repo. 
+This readme walks through the files that can be found in the github repo, how they are relevant to my project and how my project can be reproduced using the data and Jupyter notebook contained in the repo.
 
 All data used is publicly available. An addition goal of this project is to practice and show-case open scientific research best practices.
 
