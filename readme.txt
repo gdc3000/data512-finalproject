@@ -19,7 +19,7 @@ Before attempting to reproduce this work, please ensure that Jupyter notebooks i
 Contents of this repo
 This repo contains the following files:
 	• 1 Jupyter notebook file called "hcds-a6-finalproject" including a written report describing my study and outlining in detail the steps of data acquisition, processing and analysis. Included in the analysis steps are heatmaps and regression analyses referred to throughout the written report, especially in the section called Findings.
-	• 2 .csv files called "Seattle_Police_Department_Police_Report_Incident.csv" and  "Seattle_Police_Department_Police_Report_Offense.csv", which was the source of the crime data in the analysis.
+	• 2 .csv files called "Seattle_Police_Department_Police_Report_Incident.csv" and  "Seattle_Police_Department_Police_Report_Offense.csv", which was the source of the crime data in the analysis. The incident file is a compressed version of the file downloaded from Seattle PD. Several irrelevant fields were manually removed from the GIT version in order to reduce the file size.
 	• 1 .csv files called "sunrise_sunset.csv" which was the source of the sunset and sunrise times used in determining whether a given hour was light or dark in the analysis.
 	• 1 text document called "asos.txt" which was the source of the weather data used in the analysis.
 	• 1 Readme file
@@ -33,6 +33,8 @@ Asos.txt is made available by Iowa State University under an MIT license. The or
 The crime incident and offense data is made available under a Creative Commons license by the city of Seattle. This data was pulled from January 2012 through November 2017.
 
 The sunrise and sunset data are made available by the US Naval Observatory. Because the US Naval Observatory is a US Federal Government agency, this data is considered public information.
+
+Web links to source data and other resources are available in the Jupyter notebook.
 
 Limitations of the data
 The AWOS data does have occassional gaps due to malfunctioning sensors or missing records. These are analyzed in the dataprocessing steps in the Jupyter notebook, removed before analysis is performed and deemed not to cause significant harm to the study. 
