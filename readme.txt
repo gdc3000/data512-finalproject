@@ -18,7 +18,7 @@ Before attempting to reproduce this work, please ensure that Jupyter notebooks i
 
 Contents of this repo
 This repo contains the following files:
-	• 1 Jupyter notebook file called "hcds-a6-finalproject" including a written report describing my study and outlining in detail the steps of data acquisition, processing and analysis. Included in the analysis steps are heatmaps and regression analyses refered to through the written report, especially in the section called Findings.
+	• 1 Jupyter notebook file called "hcds-a6-finalproject" including a written report describing my study and outlining in detail the steps of data acquisition, processing and analysis. Included in the analysis steps are heatmaps and regression analyses referred to throughout the written report, especially in the section called Findings.
 	• 2 .csv files called "Seattle_Police_Department_Police_Report_Incident.csv" and  "Seattle_Police_Department_Police_Report_Offense.csv", which was the source of the crime data in the analysis.
 	• 1 .csv files called "sunrise_sunset.csv" which was the source of the sunset and sunrise times used in determining whether a given hour was light or dark in the analysis.
 	• 1 text document called "asos.txt" which was the source of the weather data used in the analysis.
