@@ -2,7 +2,7 @@ Examining the link between temperature and violent crime in Seattle
 Author: Geoff Coyner
 
 Abstract
-This project attempts to understand the link between violent crime and temperature in Seattle. Several studies of Chicago and one of Finland suggest a positive relationship between temperature and violent crime. This suggests a need to plan for more crime in Seattle as climate change increases Seattle temperatures over the next century. After looking at data between 2012 and 2017, I am unable to find a clear link between temperature and crime. Instead, I find a stronger link between crime and month of the year, time of day and day of the week. I conclude that planning for crime based on climate change temperature forecasts is not worthwhile.
+This project examines the link between violent crime and temperature in Seattle, since this link has been observed elsewhere. Several studies of Chicago and one of Finland suggest a positive relationship between temperature and violent crime. Since climate studies indicates Seattle will see increasing temperatures over the next century, this suggests a need to plan for more crime in Seattle. After looking at data between 2012 and 2017, I am unable to find a clear link between temperature and crime in Seattle. Instead, I find a stronger link between crime and month of the year, time of day and day of the week. I conclude that planning for crime based on climate change temperature forecasts is likely not worthwhile.
 
 Overview
 This readme walks through how this analysis was conducted including the steps in gathering and analyzing the data. This readme also explains where this information can be found in the github repo. 
